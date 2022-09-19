@@ -1,5 +1,5 @@
 I am learning devops
-I want to become a engineer
+I want
 I wish to take more salary
 I want to become a devops engineer.
 i want to earn more money
