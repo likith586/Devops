@@ -1,4 +1,4 @@
 this is a new floder
-i am adding details here
-i am going to learn new topics\
+i am adding a test file
+i am going to learn new topics
 this is a better way
